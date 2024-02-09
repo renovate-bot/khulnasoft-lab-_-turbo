@@ -22,7 +22,7 @@
     "lint:prettier": "prettier -c . --cache --ignore-path=../../.prettierignore"
   },
   "dependencies": {
-    "axios": "0.27.2",
+    "axios": "1.6.0",
     "chalk": "2.4.2",
     "commander": "^9.5.0",
     "diff": "^5.1.0",
