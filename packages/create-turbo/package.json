@@ -29,7 +29,7 @@
     "inquirer": "^8.0.0",
     "proxy-agent": "^6.2.2",
     "rimraf": "^3.0.2",
-    "semver": "^7.3.8",
+    "semver": "^7.5.2",
     "update-check": "^1.5.4"
   },
   "devDependencies": {
