@@ -195,8 +195,8 @@ importers:
         specifier: ^0.1.9
         version: 0.1.9(next@14.1.0)(react@18.2.0)
       axios:
-        specifier: 1.6.2
-        version: 1.6.2
+        specifier: 1.6.1
+        version: 1.6.1
       classnames:
         specifier: 2.3.2
         version: 2.3.2
@@ -542,8 +542,8 @@ importers:
   packages/turbo-codemod:
     dependencies:
       axios:
-        specifier: 1.6.0
-        version: 1.6.0
+        specifier: 1.6.1
+        version: 1.6.1
       chalk:
         specifier: 2.4.2
         version: 2.4.2
@@ -4876,18 +4876,8 @@ packages:
     dev: false
     optional: true
 
-  /axios@1.6.0:
-    resolution: {integrity: sha512-EZ1DYihju9pwVB+jg67ogm+Tmqc6JmhamRN6I4Zt8DfZu5lbcQGw3ozH9lFejSJgs/ibaef3A9PMXPLeefFGJg==}
-    dependencies:
-      follow-redirects: 1.15.3
-      form-data: 4.0.0
-      proxy-from-env: 1.1.0
-    transitivePeerDependencies:
-      - debug
-    dev: false
-
-  /axios@1.6.2:
-    resolution: {integrity: sha512-7i24Ri4pmDRfJTR7LDBhsOTtcm+9kjX5WiY1X3wIisx6G9So3pfMkEiU7emUBe46oceVImccTEM3k6C5dbVW8A==}
+  /axios@1.6.1:
+    resolution: {integrity: sha512-vfBmhDpKafglh0EldBEbVuoe7DyAavGSLWhuSm5ZSEKQnHhBf0xAAwybbNH1IkrJNGnS/VG4I5yxig1pCEXE4g==}
     dependencies:
       follow-redirects: 1.15.3
       form-data: 4.0.0
