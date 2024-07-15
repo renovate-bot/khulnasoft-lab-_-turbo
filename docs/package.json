@@ -38,7 +38,7 @@
     "swr": "2.2.4"
   },
   "devDependencies": {
-    "@babel/core": "7.23.6",
+    "@babel/core": "7.24.9",
     "@next/eslint-plugin-next": "^14.0.4",
     "@turbo/eslint-config": "workspace:*",
     "@turbo/gen": "workspace:*",
